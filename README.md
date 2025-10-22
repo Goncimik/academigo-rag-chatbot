@@ -1,17 +1,8 @@
----
-title: Akademigo RAG Chatbot
-emoji: 🎓🤖
-colorFrom: indigo
-colorTo: blue
-sdk: gradio
-app_file: app.py
-pinned: false
----
+# Merhaba bu benim ilk chatbotum. Akademigo 🚀
 
-# Akademik RAG Chatbot 
 
+# Akademigo RAG Chatbot 🎓🤖
 RAG tabanlı tez & makale QA chatbot'u. 
-
 
 # Projenin Amacı
 
@@ -40,7 +31,6 @@ Amaç, tez/makale gibi uzun metinlerde doğru pasajları geri çağırıp LLM’
 2. Soru Sor sekmesinde akademik sorunuzu yazın.
 
 ## 💬 Chatbot Geliştirirken Karşılaştığım Sorunlar
-
 🧩 Kaggle’da paketler birbiriyle çakıştı.
 ⚙️ Colab’da da kod savaşları devam etti.
 🤖 Hugging Face’e geçince sistem sakinleşti ama ben token ve API isimlerini karıştırdım.
